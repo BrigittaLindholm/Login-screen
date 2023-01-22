@@ -1,0 +1,25 @@
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.exe
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.deps.json
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.runtimeconfig.json
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.runtimeconfig.dev.json
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\ref\Sign UP Form.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\Sign UP Form.pdb
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.csproj.AssemblyReference.cache
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\App.baml
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\App.g.cs
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form_MarkupCompile.cache
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\MainWindow.baml
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.g.resources
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.AssemblyInfoInputs.cache
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.AssemblyInfo.cs
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.csproj.CoreCompileInputs.cache
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.csproj.CopyComplete
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\ref\Sign UP Form.dll
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.pdb
+F:\DevelopmentFiles\CSharp\Sign UP Form\Sign UP Form\obj\Debug\net5.0-windows\Sign UP Form.genruntimeconfig.cache

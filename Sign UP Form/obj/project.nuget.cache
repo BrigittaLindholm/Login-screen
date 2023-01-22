@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bN85iBSNCGxeu67TbDKjjuM5tz1dSNalLnP7F0LmItPhj7IrWQ5UY50EzK7DCKZ55tyNWdJbubgSQ6Et0OUi2w==",
+  "success": true,
+  "projectFilePath": "F:\\DevelopmentFiles\\CSharp\\Sign UP Form\\Sign UP Form\\Sign UP Form.csproj",
+  "expectedPackageFiles": [
+    "D:\\Application\\Microsoft Visual Studio\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "D:\\Application\\Microsoft Visual Studio\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
+    "D:\\Application\\Microsoft Visual Studio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
